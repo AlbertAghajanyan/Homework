@@ -1,0 +1,6 @@
+user1,123456,user1@mail.ru,15
+user2,159357,user2@mail.ru,25
+user2,1593575,user3@mail.ru,35
+user4,112233,user4@mail.ru,
+user5,445566,user5@mail.ru,
+user6,778899,user6@mail.ru,
